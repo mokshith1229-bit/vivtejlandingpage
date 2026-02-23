@@ -1,0 +1,4 @@
+﻿src/pages/industries/RecruitingCRM.tsx(131,38): error TS2304: Cannot find name 'Target'.
+src/pages/industries/RecruitingCRM.tsx(253,30): error TS2304: Cannot find name 'Building2'.
+src/pages/industries/SaaSCRM.tsx(74,162): error TS2304: Cannot find name 'CalendarCheck'.
+src/pages/industries/SaaSCRM.tsx(252,30): error TS2304: Cannot find name 'MonitorSmartphone'.
