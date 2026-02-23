@@ -1,4 +1,4 @@
-# CallFlow CRM | High-Velocity Sales Platform
+# CallFlow CRM | Sales Platform landing page 
 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80" alt="CallFlow Dashboard Mockup" width="800" />
