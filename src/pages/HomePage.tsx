@@ -22,6 +22,10 @@ export default function HomePage() {
 
     return (
         <div className="min-h-screen bg-white font-sans text-slate-900">
+             <Helmet>
+                <title>CallFlow CRM | Modern Sales Platform & CRM for Outbound Teams</title>
+                <meta name="description" content="CallFlow is an all-in-one CRM for outbound sales, call centers, and startups. intelligent dialing, automated workflows, and industry-specific CRM solutions." />
+            </Helmet>
             <Navbar onOpenDemo={openDemo} />
             <main>
                 <Hero onOpenDemo={openDemo} />
