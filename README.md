@@ -8,7 +8,7 @@
 
 **CallFlow** is a modern, high-velocity CRM platform engineered specifically for outbound sales teams, call centers, and fast-growing startups. It combines intelligent dialing, automated WhatsApp/SMS workflows, and industry-specific CRM solutions into a beautiful, lightning-fast interface.
 
-**[Live Demo / Website](https://mokshith1229-bit.github.io/vivtejlandingpage/)** *(Replace with actual domain)*
+**[Live Demo / Website](https://landingpagevivtej.netlify.app/)** *(Replace with actual domain)*
 
 ---
 
